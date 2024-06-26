@@ -1,0 +1,17 @@
+{
+  "name": "pdf-generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^22.11.2",
+    "web-streams-polyfill": "^4.0.0"
+  }
+}
